@@ -48,24 +48,25 @@ A self-hosted, privacy-first cryptocurrency portfolio manager and tax tracker bu
 1. **Clone the repository**
    \`\`\`bash
    git clone https://github.com/yourusername/inrfolio.git
+
    cd inrfolio
    \`\`\`
 
-2. **Install dependencies**
+3. **Install dependencies**
    \`\`\`bash
    npm install
    # or
    yarn install
    \`\`\`
 
-3. **Run the development server**
+4. **Run the development server**
    \`\`\`bash
    npm run dev
    # or
    yarn dev
    \`\`\`
 
-4. **Open in browser**
+5. **Open in browser**
    Navigate to `http://localhost:3000`
 
 ### Building for Production
