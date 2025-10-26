@@ -219,19 +219,6 @@ async function getCryptoPricesINR() {
 }
 \`\`\`
 
-## 🎨 Design System
-
-### Color Palette
-- **Primary**: Deep Teal (#1e5a7a) - Trust & Security
-- **Accent**: Warm Gold (#d4a574) - Prosperity
-- **Neutrals**: Clean whites, grays, blacks
-- **Status**: Green (positive), Orange (warning), Red (danger)
-
-### Typography
-- **Headings**: Geist (sans-serif)
-- **Body**: Geist (sans-serif)
-- **Mono**: Geist Mono (for code/numbers)
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these guidelines:
@@ -245,24 +232,6 @@ Contributions are welcome! Please follow these guidelines:
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## ⚠️ Disclaimer
-
-INRfolio is provided as-is for educational and informational purposes. While we strive for accuracy, we make no guarantees about the correctness of tax calculations or legal information. Please consult with a qualified tax professional or lawyer for your specific situation.
-
-## 🙏 Acknowledgments
-
-- Madras High Court for clarifying crypto's legal status in India
-- Indian crypto community for feedback and support
-- shadcn/ui for beautiful UI components
-- Recharts for data visualization
-
-## 📞 Support
-
-For issues, questions, or suggestions:
-- Open an issue on GitHub
-- Check the Compliance Guide for common questions
-- Consult with a tax professional for tax-related queries
 
 ## 🎯 Roadmap
 
